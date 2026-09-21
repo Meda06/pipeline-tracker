@@ -1,6 +1,6 @@
-# Job Tracker
+# Pipeline Tracker
 
-A full-stack app for tracking job applications through a pipeline (applied, interviewing, offer, rejected).
+A full-stack app for tracking applications through the stages of a pipeline (for example: applied, interviewing, offer, rejected).
 
 **Status:** early scaffold. Features are being built incrementally.
 
